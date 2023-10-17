@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">listmatkul</string>
+
+    <string-array name="list_matkul">
+        <item>Mobile Computing</item>
+        <item>Kewirausahaan</item>
+        <item>Data Mining</item>
+        <item>Teori Bahasa dan Automata</item>
+        <item>Pengantar Kecerdasan Buatan</item>
+        <item>Komputer dan Masyarakat</item>
+        <item>Animasi Komputer</item>
+        <item>Metode Penelitian</item>
+        <item>Stem</item>
+    </string-array>
+
+    <string-array name="list_sks">
+        <item>3 SKS</item>
+        <item>3 SKS</item>
+        <item>2 SKS</item>
+        <item>2 SKS</item>
+        <item>3 SKS</item>
+        <item>2 SKS</item>
+        <item>3 SKS</item>
+        <item>2 SKS</item>
+        <item>2 SKS</item>
+    </string-array>
+</resources>
